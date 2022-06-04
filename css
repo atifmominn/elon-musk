@@ -1,0 +1,80 @@
+img {
+  display:block;
+}
+
+#image {
+  max-width:100%;
+}
+
+.border {
+  border:10px solid;
+}
+
+body {
+  background-color:#1b1b32;
+  color:#f5f6f7;
+  font-family:Tahoma;
+}
+
+h1 {
+  text-align:center;
+}
+
+h5 {
+  text-align:center;
+}
+
+.pic {
+  background-color:;
+  padding-bottom:5;
+  padding-top:10;
+  margin-left:50;
+  margin-right:50;
+  margin-top:20;
+  padding-right:0;
+  padding-left:0;
+}
+
+img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+figcaption {
+  text-align:center;
+}
+
+#tribute-info {
+  display:inline-block;
+  width:50%;
+}
+
+.yo1 {
+  display:inline-block;
+  width:25%;
+  height:20;
+  float:left;
+}
+
+.yo2 {
+  display:inline-block;
+  width:25%;
+  height:20;
+  float:right;
+}
+
+.lol {
+  padding-bottom:20;
+}
+
+footer {
+  padding-top:10;
+  padding-bottom:10;
+  text-align:center;
+}
+
+figcaption {
+  padding-top:10;
+  margin-bottom:30;
+}
